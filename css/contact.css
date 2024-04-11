@@ -11,10 +11,6 @@
     width: 100%;
     overflow-x: hidden;
   }
-  .inside-text,a{
-    text-decoration: none;
-    color: white;
-  }
  
   .container {
     overflow-x: hidden;
